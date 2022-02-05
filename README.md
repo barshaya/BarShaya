@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=225&section=header&text=Bar%20Shaya&fontSize=35&fontAlignY=32)
+![header](https://capsule-render.vercel.app/api?type=wave&color=pink&height=225&section=header&text=Bar%20Shaya&fontSize=35&fontAlignY=32)
 
 
 ## 📖 About me
