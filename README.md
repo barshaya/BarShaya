@@ -7,7 +7,6 @@
 * 👩‍💼 Colman DevClub chairperson.
 * 💪 Ambitious, autodidact, hard-worker, team player.
 
-
 <br>
 
 ## 👨‍💻 Languages and Tools
