@@ -5,7 +5,7 @@
 * 💻 Full Stack Developer.
 * 🎓 3rd. year Computer Science student - Full Stack internship.
 * 👩‍💼 Colman DevClub chairperson.
-* 💪 Ambitious, self-motivated, reliable, responsible and hardworking person.
+* 💪 Ambitious, self-motivated, responsible and hardworking person.
 
 <br>
 
