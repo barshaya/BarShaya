@@ -3,7 +3,7 @@
 
 ## 📖 About me
 * 💻 Full Stack Developer.
-* 🎓 3rd. year Computer Science student - Full Stack internship.
+* 🎓 BSc in Computer Science - Full Stack internship.
 * 👩‍💼 Colman DevClub chairperson.
 * 💪 Ambitious, self-motivated, hardworking person and a great team player.
 
